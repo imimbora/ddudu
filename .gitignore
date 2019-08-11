@@ -3,6 +3,10 @@ node_modules/
 dist/
 npm-debug.log
 yarn-error.log
+TodoHeader_back.vue
+TodoInput_back.vue
+TodoList_back.vue
+TodoFooter_back.vue
 
 # Editor directories and files
 .idea
